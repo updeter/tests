@@ -1,1 +1,1 @@
->CheckForUpdates.exe;300;https://raw.githubusercontent.com/updeter/tests/main/update_links/app2loop;
+>CheckForUpdates.exe;Applications_x86;https://raw.githubusercontent.com/updeter/tests/main/update_links/app2loop;
