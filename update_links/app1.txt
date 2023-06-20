@@ -1,0 +1,1 @@
+>UpdaterApps.exe;300;https://raw.githubusercontent.com/updeter/tests/main/update_links/app1startup;
